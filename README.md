@@ -17,7 +17,3 @@ There are two pieces of software in this repository.
    on multiple classes.
 
 Find both NDC and MC_NDC in the appropriate subdirectories, along with copyright and citation information.
-
-For more information, contact:__
-David R. Musicant__
-dmusicant@carleton.edu 
