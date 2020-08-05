@@ -1,4 +1,4 @@
-#mc_ndc
+# mc_ndc
 
 Copyright (C) 2020. Version 1.0. The software is free for academic and research use.
 
@@ -13,6 +13,4 @@ institution = {Carleton College, University of Bojnord},
 note = {https://github.com/dmusican/ndc}}
 
 ```
-For more information, contact:__
-Hossein Moosaei__
-hmoosaei@gmail.com
+For more information, contact Hossein Moosaei, hmoosaei@gmail.com

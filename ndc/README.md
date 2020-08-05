@@ -13,6 +13,4 @@ institution = {Carleton College},
 note = {https://github.com/dmusican/ndc}}
 ```
 
-For more information, contact:__
-David R. Musicant__
-dmusicant@carleton.edu 
+For more information, contact David R. Musicant, dmusicant@carleton.edu 
