@@ -1,4 +1,4 @@
-#ndc
+# ndc
 
 Copyright (C) 2020 David R. Musicant. Version 1.0. The software is free for academic and research use.
 
