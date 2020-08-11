@@ -2,6 +2,8 @@
 
 Copyright (C) 2020. Version 1.0. The software is free for academic and research use.
 
+Please download and put all Matlab codes in a folder. Main code is "NDCC.m" - start with running this file and input the number of samples, features, and classes after that you can enjoy of having your dataset by name "dataset.csv" in your folder.
+
 If you publish any work based on NDC, please cite it. Here is the recommended LaTeX bibliography entry:
 
 ```
